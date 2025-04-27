@@ -13,7 +13,7 @@ This project analyzes YouTube trending video data across different regions to un
 ## Tools Used
 - Python (for data cleaning and analysis)
 - SQL (for querying and data exploration)
-- Tableau (for data visualization)
+- Power bi (for data visualization)
 
 ## Key Steps
 ### Data Cleaning
@@ -28,6 +28,5 @@ This project analyzes YouTube trending video data across different regions to un
 - Created dashboards to present insights clearly (category-wise trends, likes vs dislikes, etc.)
 
 ## Conclusion
-- Entertainment and Music categories dominate trending charts.
 - Early publishing times often correlate with faster trending.
 - Videos with high like-to-dislike ratios tend to trend longer.
